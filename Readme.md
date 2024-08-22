@@ -68,6 +68,6 @@ uno idea --file <zip_file_name>.zip
 
 ## Demo
 
-![Demo](demo.gif)
+![Demo](media/demo.gif)
 
 <!-- [![Demo Video](media/demo.png)](media/demo.mp4) -->
